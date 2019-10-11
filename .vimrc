@@ -96,3 +96,4 @@ set incsearch
 set wrapscan
 set hlsearch
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
+inoremap <silent> jj <ESC>
