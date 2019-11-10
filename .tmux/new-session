@@ -1,0 +1,7 @@
+select-pane -t 0
+split-window -h
+select-pane -t 0
+split-window -v
+
+resize-pane -L -t 2 20
+resize-pane -D -t 1 10
